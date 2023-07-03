@@ -4,7 +4,7 @@ public class Lulu {
 
 
 	public static void main(String[] args) {
-		System.out.println("我是Lulu~~");
+		System.out.println("Hi 我是Lulu~~");
 	}
 	
 }
